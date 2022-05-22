@@ -1,2 +1,2 @@
 # PythonStack
-This is just a python imitation of the famous Java datastructure stack. So a stack is a datastructure that Java has. In a stack the last element to enter a the datastructure will always be the first one out.
+This is just a python imitation of a Java datastructure called stack. The Stack follows the FIFO (First in First Out) and is pretty useful in situations where we have to keep track of the last added element. One usecase is the undo function in most text processing applications But the reason why I am creating this repository is to solve a LEETCODE problem <a href=https://leetcode.com/problems/valid-parentheses/ target=_blank>Valid parenthesis</a> 
